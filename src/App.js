@@ -8,7 +8,7 @@ import Covertest from './test/Covertest';
 function App() {
   return (
     <div className="App">
-      <Covertest/>
+      <DressingRoom/>
     </div>
   );
 }
