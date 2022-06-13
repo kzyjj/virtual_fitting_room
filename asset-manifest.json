@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/virtual_fitting_room/static/css/main.79fc6bd2.chunk.css",
-    "main.js": "/virtual_fitting_room/static/js/main.7076242d.chunk.js",
-    "main.js.map": "/virtual_fitting_room/static/js/main.7076242d.chunk.js.map",
+    "main.js": "/virtual_fitting_room/static/js/main.42a4fb63.chunk.js",
+    "main.js.map": "/virtual_fitting_room/static/js/main.42a4fb63.chunk.js.map",
     "runtime-main.js": "/virtual_fitting_room/static/js/runtime-main.86546a00.js",
     "runtime-main.js.map": "/virtual_fitting_room/static/js/runtime-main.86546a00.js.map",
     "static/css/2.d8cb5cde.chunk.css": "/virtual_fitting_room/static/css/2.d8cb5cde.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.d8cb5cde.chunk.css",
     "static/js/2.19c00388.chunk.js",
     "static/css/main.79fc6bd2.chunk.css",
-    "static/js/main.7076242d.chunk.js"
+    "static/js/main.42a4fb63.chunk.js"
   ]
 }
