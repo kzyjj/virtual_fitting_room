@@ -36,8 +36,9 @@
 .contain {
   width: 350px;
   height: 590px;
-  margin: 0 auto;
+  margin: auto;
   position: relative;
+  background-image: url("DRESSING ROOM.jpg");
 }
 .bikinitop {
   width: 500px;

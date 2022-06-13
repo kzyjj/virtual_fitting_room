@@ -80,8 +80,6 @@ export default function ProjectIntroduction() {
             </Navbar.Collapse>
           </Container>
         </Navbar>
-      <Card style={{color:"#000"}}>
-        <Card.Img src="https://picsum.photos/673/180"/></Card>
       </Card>
   )
 }
