@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/virtual_fitting_room/static/css/main.79fc6bd2.chunk.css",
+    "main.js": "/virtual_fitting_room/static/js/main.7076242d.chunk.js",
+    "main.js.map": "/virtual_fitting_room/static/js/main.7076242d.chunk.js.map",
+    "runtime-main.js": "/virtual_fitting_room/static/js/runtime-main.86546a00.js",
+    "runtime-main.js.map": "/virtual_fitting_room/static/js/runtime-main.86546a00.js.map",
+    "static/css/2.d8cb5cde.chunk.css": "/virtual_fitting_room/static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.19c00388.chunk.js": "/virtual_fitting_room/static/js/2.19c00388.chunk.js",
+    "static/js/2.19c00388.chunk.js.map": "/virtual_fitting_room/static/js/2.19c00388.chunk.js.map",
+    "static/js/3.cde80bc1.chunk.js": "/virtual_fitting_room/static/js/3.cde80bc1.chunk.js",
+    "static/js/3.cde80bc1.chunk.js.map": "/virtual_fitting_room/static/js/3.cde80bc1.chunk.js.map",
+    "index.html": "/virtual_fitting_room/index.html",
+    "static/css/2.d8cb5cde.chunk.css.map": "/virtual_fitting_room/static/css/2.d8cb5cde.chunk.css.map",
+    "static/css/main.79fc6bd2.chunk.css.map": "/virtual_fitting_room/static/css/main.79fc6bd2.chunk.css.map",
+    "static/js/2.19c00388.chunk.js.LICENSE.txt": "/virtual_fitting_room/static/js/2.19c00388.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86546a00.js",
+    "static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.19c00388.chunk.js",
+    "static/css/main.79fc6bd2.chunk.css",
+    "static/js/main.7076242d.chunk.js"
+  ]
+}
