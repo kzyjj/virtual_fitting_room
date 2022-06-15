@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.22ff11cc.chunk.css",
-    "main.js": "/static/js/main.53580e92.chunk.js",
-    "main.js.map": "/static/js/main.53580e92.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8be970cc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8be970cc.js.map",
-    "static/css/2.d8cb5cde.chunk.css": "/static/css/2.d8cb5cde.chunk.css",
-    "static/js/2.4c34ac8a.chunk.js": "/static/js/2.4c34ac8a.chunk.js",
-    "static/js/2.4c34ac8a.chunk.js.map": "/static/js/2.4c34ac8a.chunk.js.map",
-    "static/js/3.cde80bc1.chunk.js": "/static/js/3.cde80bc1.chunk.js",
-    "static/js/3.cde80bc1.chunk.js.map": "/static/js/3.cde80bc1.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.d8cb5cde.chunk.css.map": "/static/css/2.d8cb5cde.chunk.css.map",
-    "static/css/main.22ff11cc.chunk.css.map": "/static/css/main.22ff11cc.chunk.css.map",
-    "static/js/2.4c34ac8a.chunk.js.LICENSE.txt": "/static/js/2.4c34ac8a.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/static/media/DRESSING ROOM.9d110d80.jpg"
+    "main.css": "/virtual_fitting_room/static/css/main.bab1d7bc.chunk.css",
+    "main.js": "/virtual_fitting_room/static/js/main.53580e92.chunk.js",
+    "main.js.map": "/virtual_fitting_room/static/js/main.53580e92.chunk.js.map",
+    "runtime-main.js": "/virtual_fitting_room/static/js/runtime-main.86546a00.js",
+    "runtime-main.js.map": "/virtual_fitting_room/static/js/runtime-main.86546a00.js.map",
+    "static/css/2.d8cb5cde.chunk.css": "/virtual_fitting_room/static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.4c34ac8a.chunk.js": "/virtual_fitting_room/static/js/2.4c34ac8a.chunk.js",
+    "static/js/2.4c34ac8a.chunk.js.map": "/virtual_fitting_room/static/js/2.4c34ac8a.chunk.js.map",
+    "static/js/3.cde80bc1.chunk.js": "/virtual_fitting_room/static/js/3.cde80bc1.chunk.js",
+    "static/js/3.cde80bc1.chunk.js.map": "/virtual_fitting_room/static/js/3.cde80bc1.chunk.js.map",
+    "index.html": "/virtual_fitting_room/index.html",
+    "static/css/2.d8cb5cde.chunk.css.map": "/virtual_fitting_room/static/css/2.d8cb5cde.chunk.css.map",
+    "static/css/main.bab1d7bc.chunk.css.map": "/virtual_fitting_room/static/css/main.bab1d7bc.chunk.css.map",
+    "static/js/2.4c34ac8a.chunk.js.LICENSE.txt": "/virtual_fitting_room/static/js/2.4c34ac8a.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/virtual_fitting_room/static/media/DRESSING ROOM.9d110d80.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8be970cc.js",
+    "static/js/runtime-main.86546a00.js",
     "static/css/2.d8cb5cde.chunk.css",
     "static/js/2.4c34ac8a.chunk.js",
-    "static/css/main.22ff11cc.chunk.css",
+    "static/css/main.bab1d7bc.chunk.css",
     "static/js/main.53580e92.chunk.js"
   ]
 }
